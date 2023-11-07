@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{9527cc1e-0fae-4b58-8ace-32346703bcb0}</ProjectGuid>
-    <RootNamespace>Project1</RootNamespace>
+    <RootNamespace>AsteroidApp</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>AppAsteroid</ProjectName>
   </PropertyGroup>
