@@ -4,8 +4,8 @@
 #include <string>
 #include <vector>
 #include <algorithm>
-#include <curl/curl.h>
-#include <nlohmann/json.hpp>
+#include "nlohmann/json.hpp"
+#include "curl/curl.h"
 
 using json = nlohmann::json;
 using namespace std;

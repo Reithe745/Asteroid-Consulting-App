@@ -89,7 +89,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>includes\nlohmann-json_x64-windows-static\include;includes\curl_x64-windows-static\include;../../libraries/glfw/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)AsteroidApp\includes\nlohmann-json_x64-windows-static\include;$(SolutionDir)AsteroidApp\includes\curl_x64-windows-static\include;../../libraries/glfw/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -107,7 +107,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>includes\nlohmann-json_x64-windows-static\include;includes\curl_x64-windows-static\include;../../libraries/curl/include;../../libraries/glfw/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)AsteroidApp\includes\nlohmann-json_x64-windows-static\include;$(SolutionDir)AsteroidApp\includes\curl_x64-windows-static\include;../../libraries/curl/include;../../libraries/glfw/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -125,7 +125,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>includes\nlohmann-json_x64-windows-static\include;includes\curl_x64-windows-static\include;../../libraries/glfw/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)AsteroidApp\includes\nlohmann-json_x64-windows-static\include;$(SolutionDir)AsteroidApp\includes\curl_x64-windows-static\include;../../libraries/glfw/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -143,7 +143,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>includes\nlohmann-json_x64-windows-static\include;includes\curl_x64-windows-static\include;../../libraries/curl/include;../../libraries/glfw/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)AsteroidApp\includes\nlohmann-json_x64-windows-static\include;$(SolutionDir)AsteroidApp\includes\curl_x64-windows-static\include;../../libraries/curl/include;../../libraries/glfw/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
