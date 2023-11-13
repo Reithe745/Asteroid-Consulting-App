@@ -1,5 +1,5 @@
 #define CURL_STATICLIB
-//testando o pull request
+
 #include <iostream>
 #include <string>
 #include <vector>
