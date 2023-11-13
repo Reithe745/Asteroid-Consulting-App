@@ -1,5 +1,5 @@
 #define CURL_STATICLIB
-//teste na nova branch
+
 #include <iostream>
 #include <string>
 #include <vector>
