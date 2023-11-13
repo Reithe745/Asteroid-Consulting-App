@@ -1,5 +1,5 @@
 #define CURL_STATICLIB
-//testando comment e commit
+
 #include <iostream>
 #include <string>
 #include <vector>
